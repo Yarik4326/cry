@@ -15,14 +15,6 @@ a{
     padding-left: 20px ;
 }
 
-h1{
-    color: white;
-    text-align: center;
-}
-
-h4{
-    color: white;
-    text-align: center;
 }
 
 a:first-child:hover{
@@ -31,10 +23,6 @@ a:first-child:hover{
 
 a:last-child:visited{
   color: aquamarine;
-}
-
-h1::before{
-    content: url("/uploads/2021/03/cat_h1_0_1614933442.svg");
 }
 
 footer{
@@ -53,14 +41,6 @@ footer p:hover{
    background-color: white;
 }
 
-.p{
-color: white;
-}
-
-.p:hover{
-    text-align: right;
-    font-weight: bolder;
-}
 
 .h{
     height: 80px;
